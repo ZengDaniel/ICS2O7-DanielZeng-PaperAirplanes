@@ -9,3 +9,11 @@ color:blue;
 font-size:36pt;
 text-align:center
 }
+
+body
+{
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
