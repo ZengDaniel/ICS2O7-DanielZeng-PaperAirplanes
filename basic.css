@@ -12,8 +12,8 @@ text-align:center
 
 body
 {
-    background-image: url("images/background.png");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
+    background-image: url("images/background.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: center;
 }
