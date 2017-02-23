@@ -42,3 +42,10 @@ h2
    font-size:26pt;
    font-family: "Arial Narrow", "Sans Serif";
 }
+
+.bottom-left
+{
+   position: absolute;
+   left: 50%;
+    
+}
