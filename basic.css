@@ -1,13 +1,20 @@
 .navigator
 {
-color:red;
+    color:red;
 }
 
 #welcome
 {
-color:blue;
-font-size:36pt;
-text-align:center
+    color:blue;
+    font-size:36pt;
+    text-align:center;
+}
+
+#greeting
+{
+    color:blue;
+    font-size:28pt;
+    text-align:center;
 }
 
 body
